@@ -1,0 +1,108 @@
+		ASCII Uppercase
+
+- The ASCII Value Of  A  Is  65
+- The ASCII Value Of  B  Is  66
+- The ASCII Value Of  C  Is  67
+- The ASCII Value Of  D  Is  68
+- The ASCII Value Of  E  Is  69
+- The ASCII Value Of  F  Is  70
+- The ASCII Value Of  G  Is  71
+- The ASCII Value Of  H  Is  72
+- The ASCII Value Of  I  Is  73
+- The ASCII Value Of  J  Is  74
+- The ASCII Value Of  K  Is  75
+- The ASCII Value Of  L  Is  76
+- The ASCII Value Of  M  Is  77
+- The ASCII Value Of  N  Is  78
+- The ASCII Value Of  O  Is  79
+- The ASCII Value Of  P  Is  80
+- The ASCII Value Of  Q  Is  81
+- The ASCII Value Of  R  Is  82
+- The ASCII Value Of  S  Is  83
+- The ASCII Value Of  T  Is  84
+- The ASCII Value Of  U  Is  85
+- The ASCII Value Of  V  Is  86
+- The ASCII Value Of  W  Is  87
+- The ASCII Value Of  X  Is  88
+- The ASCII Value Of  Y  Is  89
+- The ASCII Value Of  Z  Is  90
+
+
+		ASCII Lowercase
+
+- The ASCII Value Of  a  Is  97
+- The ASCII Value Of  b  Is  98
+- The ASCII Value Of  c  Is  99
+- The ASCII Value Of  d  Is  100
+- The ASCII Value Of  e  Is  101
+- The ASCII Value Of  f  Is  102
+- The ASCII Value Of  g  Is  103
+- The ASCII Value Of  h  Is  104
+- The ASCII Value Of  i  Is  105
+- The ASCII Value Of  j  Is  106
+- The ASCII Value Of  k  Is  107
+- The ASCII Value Of  l  Is  108
+- The ASCII Value Of  m  Is  109
+- The ASCII Value Of  n  Is  110
+- The ASCII Value Of  o  Is  111
+- The ASCII Value Of  p  Is  112
+- The ASCII Value Of  q  Is  113
+- The ASCII Value Of  r  Is  114
+- The ASCII Value Of  s  Is  115
+- The ASCII Value Of  t  Is  116
+- The ASCII Value Of  u  Is  117
+- The ASCII Value Of  v  Is  118
+- The ASCII Value Of  w  Is  119
+- The ASCII Value Of  x  Is  120
+- The ASCII Value Of  y  Is  121
+- The ASCII Value Of  z  Is  122
+
+
+		ASCII Digits
+
+- The ASCII Value Of  0  Is  48
+- The ASCII Value Of  1  Is  49
+- The ASCII Value Of  2  Is  50
+- The ASCII Value Of  3  Is  51
+- The ASCII Value Of  4  Is  52
+- The ASCII Value Of  5  Is  53
+- The ASCII Value Of  6  Is  54
+- The ASCII Value Of  7  Is  55
+- The ASCII Value Of  8  Is  56
+- The ASCII Value Of  9  Is  57
+
+
+		ASCII Punctuation
+
+- The ASCII Value Of  !  Is  33
+- The ASCII Value Of  "  Is  34
+- The ASCII Value Of  #  Is  35
+- The ASCII Value Of  $  Is  36
+- The ASCII Value Of  %  Is  37
+- The ASCII Value Of  &  Is  38
+- The ASCII Value Of  '  Is  39
+- The ASCII Value Of  (  Is  40
+- The ASCII Value Of  )  Is  41
+- The ASCII Value Of  *  Is  42
+- The ASCII Value Of  +  Is  43
+- The ASCII Value Of  ,  Is  44
+- The ASCII Value Of  -  Is  45
+- The ASCII Value Of  .  Is  46
+- The ASCII Value Of  /  Is  47
+- The ASCII Value Of  :  Is  58
+- The ASCII Value Of  ;  Is  59
+- The ASCII Value Of  <  Is  60
+- The ASCII Value Of  =  Is  61
+- The ASCII Value Of  >  Is  62
+- The ASCII Value Of  ?  Is  63
+- The ASCII Value Of  @  Is  64
+- The ASCII Value Of  [  Is  91
+- The ASCII Value Of  \  Is  92
+- The ASCII Value Of  ]  Is  93
+- The ASCII Value Of  ^  Is  94
+- The ASCII Value Of  _  Is  95
+- The ASCII Value Of  `  Is  96
+- The ASCII Value Of  {  Is  123
+- The ASCII Value Of  |  Is  124
+- The ASCII Value Of  }  Is  125
+- The ASCII Value Of  ~  Is  126
